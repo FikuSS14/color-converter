@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-converter/static/css/main.02c65ddf.css",
+    "main.js": "/color-converter/static/js/main.d5ead015.js",
+    "index.html": "/color-converter/index.html",
+    "main.02c65ddf.css.map": "/color-converter/static/css/main.02c65ddf.css.map",
+    "main.d5ead015.js.map": "/color-converter/static/js/main.d5ead015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c65ddf.css",
+    "static/js/main.d5ead015.js"
+  ]
+}
